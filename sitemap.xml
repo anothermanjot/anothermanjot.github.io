@@ -2,29 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://anothermanjot.github.io&gt;/post/welcome/</loc>
+    <loc>https://anothermanjot.github.io/post/welcome/</loc>
     <lastmod>2017-04-23T18:34:07+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://anothermanjot.github.io&gt;/categories/</loc>
+    <loc>https://anothermanjot.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://anothermanjot.github.io&gt;/</loc>
-    <lastmod>2017-04-23T18:34:07+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://anothermanjot.github.io&gt;/post/</loc>
+    <loc>https://anothermanjot.github.io/</loc>
     <lastmod>2017-04-23T18:34:07+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://anothermanjot.github.io&gt;/tags/</loc>
+    <loc>https://anothermanjot.github.io/post/</loc>
+    <lastmod>2017-04-23T18:34:07+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://anothermanjot.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
